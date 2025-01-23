@@ -1,0 +1,3 @@
+﻿  MineSweeperClone.cpp
+E:\Outscal\Data Structure fundamentals 2\Programs\MineSweeperClone\MineSweeperClone.cpp(66,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MineSweeperClone.vcxproj -> E:\Outscal\Data Structure fundamentals 2\Programs\MineSweeperClone\x64\Debug\MineSweeperClone.exe
