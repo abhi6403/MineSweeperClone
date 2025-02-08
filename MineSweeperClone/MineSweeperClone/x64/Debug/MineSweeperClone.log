@@ -1,0 +1,3 @@
+﻿  MineSweeperClone.cpp
+C:\Users\User\Documents\MineSweeper Clone\MineSweeperClone\MineSweeperClone.cpp(75,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MineSweeperClone.vcxproj -> C:\Users\User\Documents\MineSweeper Clone\MineSweeperClone\x64\Debug\MineSweeperClone.exe
